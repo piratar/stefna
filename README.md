@@ -59,11 +59,9 @@ Til stefnumála sem lögð eru fram til samþykktar innan Pírata er gerð sú k
 6.3 Píratar telja að draga þurfi úr miðstýringu valds á öllum sviðum og efla þurfi beint lýðræði í þeim formum sem bjóðast.
 
 
-
-
-==================
+### Viðauki
 Að ofan má finna grunnstefnu Pírata. Stefnan er skrifuð sem röð fullyrðinga svo auðvelt sé að vísa til þeirra, en stundum er getur verið ögn snúið að skilja hvað er átt við. Hér eru nokkrar orðskýringar:
-==================
+
 
 **Borgararéttindi**  eru lögbundin réttindi einstaklings til að taka þátt í lýðræðislegu samfélagi. Til borgararéttinda telst meðal annars kosningaréttur, trúfrelsi, málfrelsi, prentfrelsi og rétturinn til að taka þátt í friðsamlegum mótmælum.
 **Upplýsingar** eru afrakstur söfnunar, útfærslu, breytinga og skipulags gagna þannig að þau hafi áhrif á þekkingu einhvers viðtakanda. Upplýsingar eru þannig stundum sagðar vera sú merking sem maðurinn gefur gögnum og hafa með það að gera í hvaða samhengi gögnin koma fyrir, hvernig þau eru táknuð með skiljanlegum hætti, og hver merking þeirra er í huga viðtakandans. Upplýsingar eru eiginleikar boða í samskiptum 
