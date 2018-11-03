@@ -1,0 +1,2 @@
+# grunnstefna
+Grunnstefna Pírata
