@@ -58,3 +58,13 @@ Til stefnumála sem lögð eru fram til samþykktar innan Pírata er gerð sú k
 
 6.3 Píratar telja að draga þurfi úr miðstýringu valds á öllum sviðum og efla þurfi beint lýðræði í þeim formum sem bjóðast.
 
+
+<h3>Lesin og teiknuð</h3>
+<iframe src="https://www.youtube.com/embed/iml0P9Wp0UU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+<h3>Á táknmáli</h3>
+<iframe src="https://www.youtube.com/embed/_p67R9xIOiE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<h3>Ítarefni</h3>
+<ul>
+<li><a href="https://piratar.is/kosningar/kosningarforsida/frambod-2016/framtidarsyn-pirata/">Framtíðarsýn Pírata til næstu 10 ára</a></li>
+</ul>
