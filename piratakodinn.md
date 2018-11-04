@@ -1,4 +1,8 @@
-Píratakóðinn er sameiginleg gildayfirlýsing Pírataflokka um allan heim.
+# Píratakóðinn er sameiginleg gildayfirlýsing Pírataflokka um allan heim.
+
+[Stefna](README.md)
+
+[Grunngildi](grunngildi.md)
 
 Í íslenskri þýðingu hljómar hann svona:
 
