@@ -1,3 +1,17 @@
+* [Ný stjórnarskrá](#ný-stjórnarskrá)
+* [Ísland meðal þjóða](#ísland-meðal-þjóða)
+* [Virkt lýðræði](#virkt-lýðræði)
+* [Gagnsæi og upplýsingafrelsi](#gagnsæi-og-upplýsingafrelsi)
+* [Mannréttindi og jafnrétti](#mannréttindi-og-jafnrétti)
+* [Sjávarútvegsmál](#sjávarútvegsmál)
+* [Umhverfismál](#umhverfismál)
+* [Efnahagsmál](#efnahagsmál)
+* [Endurreist heilbrigðiskerfi](#endurreist-heilbrigðiskerfi)
+* [Styrkjum menntun sem grunnstoð](#styrkjum-menntun-sem-grunnstoð)
+* [Velferðarmál](#velferðarmál)
+* [Landbúnaður](#landbúnaður)
+* [Ísland sem áfangastaður](#ísland-sem-áfangastaður)
+* [Eflum byggðir](#eflum-byggðir)
 
 
 ## Ný stjórnarskrá
