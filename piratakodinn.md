@@ -2,7 +2,7 @@
 
 [Stefna](README.md)
 
-[Grunngildi](grunngstefna.md)
+[Grunngildi](grunnstefna.md)
 
 ---
 
