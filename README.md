@@ -4,6 +4,8 @@
 
 [Píratakóðinn](piratakodinn.md)
 
+[Framtíðarsýn](framtidarsyn.md)
+
 
 ## Beint lýðræði: Við viljum að þú ráðir
 Píratar vilja að þú getir tekið þátt í ákvarðanatöku í málum sem þig varða. Píratar vilja ekki að þú þurfir að framselja atkvæði þitt til fjögurra ára í einu. Í þessum tilgangi hafa Píratar búið til kosningakerfi sem miðar að því að tryggja lýðræðisleg vinnubrögð en jafnframt nýta tæknina upp að því marki sem mögulegt er. Haltu atkvæðinu þínu og taktu þátt í alvöru lýðræðissamfélagi.
