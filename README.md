@@ -1,6 +1,6 @@
 # Stefna
 
-[Grunngildi](grunnstefna.md)
+[Grunngildi](grunngildi.md)
 
 [Píratakóðinn](piratakodinn.md)
 
