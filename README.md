@@ -1,6 +1,8 @@
 # Stefna
 
-[Grunngildi / grunnstefna](grunnstefna.md)
+[Grunngildi](grunnstefna.md)
+
+[Píratakóðinn](piratakodinn.md)
 
 
 ## Beint lýðræði: Við viljum að þú ráðir
