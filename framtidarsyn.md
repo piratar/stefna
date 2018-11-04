@@ -13,6 +13,7 @@ Samfélagið hefur þróast hraðar en stjórnkerfið, því er þörf á nýjum
 <li><a href="http://stjornlagarad.is/other_files/stjornlagarad/Frumvarp_med_skyringum.pdf">Frumvarp frá stjórnlagaráði</a>&nbsp;(pdf)</li>
 <li><a href="http://www.althingi.is/altext/141/s/1111.html">Framhaldsnefndarálit&nbsp;meirihluta stjórn­skip­un­ar- og eft­ir­lits­nefnd­ar</a> um frum­varp til stjórn­ar­skip­un­ar­laga um stjórn­ar­skrá lýðveld­is­ins Íslands.<a name="1-3"></a></li>
 </ul>
+
 <h3>Stjórnarskrá á mannamáli</h3>
 <p><a name="1-5"></a>Núgildandi stjórnarskrá er óskýr og úrelt. Þrískipting valdsins, völd forseta og pólitísk ábyrgð eru illa skilgreind og ótrygg. Stjórnskipan landsins byggist á túlkunum, hefð og jafnvel hentistefnu stjórnvalda og við þurfum stjórnarskrá sem fólk skilur og tryggir pólitíska ábyrgð.</p>
 <ul>
@@ -22,6 +23,7 @@ Samfélagið hefur þróast hraðar en stjórnkerfið, því er þörf á nýjum
 <p>Þjóðinni hefur verið lofað nýrri stjórnarskrá frá árinu 1944. Nú eigum við nýja stjórnarskrá. Nú eigum við nýja stjórnarskrá. Virðum niðurstöðuna úr þjóðaratkvæðagreiðslunni 20. október 2012 og klárum málið.<br>
 <a name="2"></a><a href="https://x.piratar.is/polity/1/document/35/">Stefna Pírata&nbsp;um stjórnskipunarlög</a> <a name="2-1"></a></p>
 <h2 id="framtid-2">Ísland meðal þjóða</h2>
+
 <h3>Þjóðaratkvæðagreiðsla um áframhald viðræðna við ESB</h3>
 <p>Efnum svikin loforð og hættum að taka ákvarðanir með leynilegum bréfum. Píratar vilja færa þjóðinni valdið í reynd með því að treysta henni til að taka upplýsta ákvörðun um sameiginlega hagsmuni. Þjóðin á að ráða svona stóru máli sjálf. Stjórnvöld eru í vinnu fyrir þjóðina og eiga að fylgja fyrirmælum hennar af heilum hug – það er enginn pólitískur ómöguleiki í því.<a name="2-2"></a></p>
 <p><a href="https://x.piratar.is/issue/173/">Stefna Pírata varðandi aðildarviðræður við ESB</a></p>
@@ -34,6 +36,7 @@ Samfélagið hefur þróast hraðar en stjórnkerfið, því er þörf á nýjum
 <li><a href="https://x.piratar.is/polity/1/document/287/">Almenn stefna Pírata um útlendinga</a></li>
 <li><a href="https://x.piratar.is/issue/52/">Stefna Pírata um flóttamenn</a></li>
 </ul>
+
 <h2 id="framtid-3">Virkt lýðræði</h2>
 <h5>Þú hefur rétt á þátttöku í málum sem varða þig.</h5>
 <h5>Dómgreind fjöldans skal ekki vanmetin. Saman erum við sterk.</h5>
@@ -44,6 +47,7 @@ Samfélagið hefur þróast hraðar en stjórnkerfið, því er þörf á nýjum
 <li><a href="https://x.piratar.is/polity/1/document/35/">Stefna Pírata um Stjórnskipunarlög</a><a name="3-3"></a></li>
 <li><a href="http://www.stjornlagarad.is/starfid/frumvarp/grein/item35354/">Í nýrri stjórnarskrá: Þingmál að frumkvæði kjósenda</a></li>
 </ul>
+
 <h3>Opið og öflugt Alþingi<a name="3-4"></a></h3>
 <p>Alþingi nýtur afar lítils trausts meðal landsmanna og það er ein brýnasta áskorun íslenskra stjórnmála. Píratar hafa ýmsar tillögur að úrbótum á störfum þingsins sem hægt er að innleiða strax. Þeirra á meðal er að ráðherrar séu ekki þingmenn á sama tíma, að fundir fastanefnda þingsins verði að jafnaði opnir, að þingmál lifi á milli þinga í stað þess að falla niður eins og nú er og að forseti Alþingis hafi dagskrárvald í reynd, geti vísað vanbúnum málum til baka í ráðuneytin og neitað að taka þau á dagskrá. Sömuleiðis að sett verði á fót sérstök lagaskrifstofa Alþingis sem og ný þverpólitísk þingmannanefnd (Framtíðarnefndin) þar sem unnið verði markvisst að langtímamarkmiðum og stefnum.</p>
 <h3>Eflum vitund um lýðræði og þjóðfélagsmál með þjálfun í gagnrýnni hugsun</h3>
@@ -51,6 +55,7 @@ Samfélagið hefur þróast hraðar en stjórnkerfið, því er þörf á nýjum
 <ul>
 <li><a href="http://piratar.is/stefna/grunnstefna/">Grunnstefna Pírata</a></li>
 </ul>
+
 <h3>Veitum stjórnvöldum meira aðhald</h3>
 <p>Valdi fylgir ábyrgð. Grunnurinn að góðu samfélagi er skiljanleg stjórnarskrá þar sem allir geta skilið rétt sinn og ábyrgð valdhafa. Óháðir fjölmiðlar eru nauðsynlegur hluti þess að fylgjast með valdinu. Gagnsæ stjórnsýsla er nauðsynleg til þess að fjölmiðlar og almenningur geti sinnt lýðræðislegu hlutverki sínu.</p>
 <h3>Lýðræðið þarf að iðka á milli kosninga</h3>
@@ -58,11 +63,13 @@ Samfélagið hefur þróast hraðar en stjórnkerfið, því er þörf á nýjum
 <p>Í nýrri stjórnarskrá segir: “Með lögum skal tryggja almenningi aðgang að undirbúningi ákvarðana sem hafa umtalsverð áhrif á umhverfi og náttúru svo og heimild til að leita til hlutlausra úrskurðaraðila.”</p>
 <h2 id="framtid-4">Gagnsæi og upplýsingafrelsi</h2>
 <h5>Þetta kemur þér víst við!</h5>
+
 <h3>Gagnsæ og opin stjórnsýsla</h3>
 <p>Gagnsæi er nauðsynleg forsenda fyrir ábyrgð og fyrir upplýstri þátttöku almennings í lýðræðinu. Til að fyrirbyggja spillingu þarf ábyrgðin að vera skýr og upplýsingar um ákvarðanir aðgengilegar öllum. Valdeflum einstaklinga með betra aðgengi og betri upplýsingum. Upplýsingar þurfa að vera aðgengilegar og skiljanlegar, þ.e. bæði á mannamáli og á opnu, tölvutæku sniði.<a name="4-2"></a><br>
 Í nýrri stjórnarskrá segir: “Upplýsingar og gögn í fórum stjórnvalda skulu vera tiltæk án undandráttar og skal með lögum tryggja aðgang almennings að þeim.”</p>
 <h3>Lögfestum samning SÞ gegn spillingu</h3>
 <p><a name="4-3"></a>Vinnum gegn spillingu og notum til þess alþjóðlega viðurkenndar og sannreyndar lausnir. Með aðild Íslands að samningi Sameinuðu þjóðanna gegn spillingu fyrir 6 árum samþykkti Alþingi að slíkar lausnir skyldi setja í lög – það þarf að klára.</p>
+
 <h3>Nútímaleg vernd höfundaréttar</h3>
 <p>Höfundar eiga rétt á að njóta ágóða af verkum sínum. Lög um höfundarétt þarf að endurskoða til að þau taki betur mið af þróun samfélagsins og upplýsingatækninnar, með það að markmiði að gera höfundum kleift að afla tekna af verkum sínum án þess að framfylgni laganna bitni á almannahagsmunum, borgararéttindum eða hefðbundnum ferlum réttarríkisins.</p>
 <p>Leita skal leiða til að styrkja rétt höfunda, sérstaklega gagnvart milliliðum, á sama tíma og tjáningarfrelsi, netfrelsi og friðhelgi einkalífs borgaranna er virt.<br>
@@ -71,6 +78,7 @@ Endurskoða og samræma þarf löggjöf um höfundarétt innan evrópska efnahag
 <ul>
 <li><a href="https://x.piratar.is/polity/1/document/290/">Höfundarréttarstefna Pírata</a></li>
 </ul>
+
 <h3>Upplýsingafrelsi – Upplýsingar eru forsenda upplýsingar</h3>
 <p>Forsenda heilbrigðs lýðræðis er aðgengi almennings að upplýsingum og réttur okkar til að safna og skiptast á upplýsingum án afskipta stjórnvalda. Stjórnvöld eiga að beita upplýsingatækni í mun ríkari mæli til að koma gögnum á framfæri, sinna þjónustu og hafa samráð við borgarana.<a name="4-5"></a></p>
 <ul>
@@ -98,6 +106,7 @@ Beitum okkur gegn ritskoðun og brotum gegn friðhelgi einkalífs, t.d. almennu 
 <li><a href="https://immi.is/thingsalyktunin/">Þingsályktun um IMMI</a></li>
 <li><a href="https://www.menntamalaraduneyti.is/frettir/forsidugreinar/kynning-a-fjorum-frumvorpum-um-tjaningar-og-upplysingafrelsi">Frumvörp í ferli</a></li>
 </ul>
+
 <h2>Mannréttindi og jafnrétti</h2>
 <h4>Upprætum mismunun á öllum sviðum</h4>
 <p>Píratar vilja berjast gegn allri mismunun gagnvart einstaklingum; hvort sem hún er á grundvelli kyns, kynhneigðar, kynvitundar, aldurs, trúarbragða, uppruna, litarháttar, lífskoðana, fötlunar eða annarra persónueinkenna. Enn eru mörg verk óunnin á sviði jafnréttis og margt sem þarf að gera til að jafna stöðu ólíkra hópa samfélagsins. Þar á meðal er lögfesting Samnings Sameinuðu þjóðanna um réttindi fatlaðs fólks sem hrinda verður í framkvæmd eins fljótt og auðið er.</p>
@@ -106,8 +115,10 @@ Beitum okkur gegn ritskoðun og brotum gegn friðhelgi einkalífs, t.d. almennu 
 <li><a href="https://x.piratar.is/issue/85/">Grunnjafnréttisstefna Pírata</a></li>
 <li><a href="https://x.piratar.is/polity/1/document/65/">Stefna Pírata um lögfestingu Samnings Sameinuðu þjóðanna um réttindi fatlaðs fólks</a></li>
 </ul>
+
 <h3>Lögfestum Samning Sameinuðu þjóðanna um réttindi fatlaðs fólks</h3>
 <p>Píratar stefna að lögfestingu Samnings Sameinuðu þjóðanna um réttindi fatlaðs fólks eins fljótt og verða má. Píratar fagna því að Alþingi hafi fullgilt samninginn eftir margra ára töf en eru meðvitaðir um að enn er langt í land að lögfestingu samningsins. Brýnustu úrbætur sem þörf er á eru að afnema allar heimildir í lögum til frelsissviptingar og þvingaðrar meðferðar á grundvelli fötlunar. Sjálfsákvörðunarréttur fatlaðs fólks skal virtur í hvívetna. Leggja verður niður staðgengilsákvarðanatökukerfi núverandi lögræðislaga (lögræðissviptingar/lögráðamenn) og bjóða þess í stað upp á stuðning við ákvarðanatöku. Bann við mismunun á grundvelli fötlunar skal lögfesta í jafnréttislögum. Mannréttindi og mannhelgi fatlaðs fólks skulu vernduð og virt bæði í lögum og framkvæmd. Réttur fatlaðs fólks til þess að lifa sjálfstæðu lífi utan frelsisskerðandi stofnana skal tryggður með lögum. Stórefla verður forvarnir gegn fordómum á grundvelli fötlunar í samfélaginu öllu. Vinna skal markvisst að því að efla náms- og atvinnuþáttöku fatlaðs fólks.</p>
+
 <h3>Upprætum staðalmyndir</h3>
 <p>Píratar vilja leita leiða til að sporna við og uppræta staðalímyndir og aðrar ranghugmyndir sem geta orðið til þess að einstaklingum sé mismunað eða frelsi þeirra skert. Samhliða því að nám verði einstaklingsmiðaðra viljum við að markvisst verði unnið að því innan menntakerfisins að draga úr kynbundnum hindrunum við val á námi og starfssviði. Píratar telja ekki síður mikilvægt að vinna gegn hindrunum og fordómum byggðri á fötlun einstaklinga í námi og starfi. Píratar vilja koma á fót jafnréttisfræðslu innan grunnskóla samhliða kynfræðslu og að fræðsluefni taki mið af því að vinna á móti fordómum og staðalímyndum almennt. Auk þess viljum við sporna við neikvæðum áhrifum kláms á kynhegðun og kynjaímyndir, ekki síst á börn og unglinga með því að stuðla að öflugri fræðslu og þjóðfélagsumræðu sem miðar að því að vekja fólk til umhugsunar um eðli kláms og áhrif þess.</p>
 <ul>
@@ -115,11 +126,13 @@ Beitum okkur gegn ritskoðun og brotum gegn friðhelgi einkalífs, t.d. almennu 
 <li><a href="https://x.piratar.is/issue/84/">Stefna Pírata varðandi staðalmyndir</a></li>
 <li><a href="https://x.piratar.is/polity/1/document/65/">Stefna Pírata um lögfestingu Samnings Sameinuðu þjóðanna um réttindi fatlaðs fólks</a></li>
 </ul>
+
 <h3>Upprætum kynbundinn launamun</h3>
 <p>Píratar vilja að unnið verði að breytingum á kjarasamningum til að tryggja launajafnrétti óháð kyni. Stuðla ætti að gagnsæi og sanngirni í launamálum með því að skylda fyrirtæki og stofnanir til að gera öllu starfsfólki aðgengilegar nákvæmar og réttar upplýsingar um launakjör alls starfsfólks. Vinnuveitendum verði gert skylt að upplýsa starfsfólk um lagaleg réttindi þess og skyldur við ráðningu. Séð verði til þess að eftirlitsaðili hafi heimild til þess að rannsaka launamál fyrirtækja til að leita skýringa á óútskýrðum launamun.</p>
 <ul>
 <li><a href="https://x.piratar.is/issue/80/">Stefna Pírata um kynbundinn launamun</a></li>
 </ul>
+
 <h3>Upprætum kynbundið ofbeldi</h3>
 <p>Píratar vilja tryggja að kynfrelsi njóti fullrar og ótvíræðar lagaverndar. Auka ætti fjármagn til Neyðarmóttöku Landsspítalans fyrir þolendur kynferðisofbeldis, svo bæta megi þjónustu við þolendur og koma á fót sérstakri þjónustu fyrir karlkyns þolendur kynferðisofbeldis.</p>
 <p>Bjóða skal þolendum aukna sálfræðiþjónustu strax í upphafi kæruferlis eða málsmeðferðar, svo einstaklingurinn geti tekist betur á við það sem fylgir því að kæra kynferðisafbrot. Ákveðnar fjárupphæðir verði eyrnamerktar til rannsókna á kynferðisafbrotamálum, til þess að vega upp á móti lágum forgangi þeirra í kerfinu sökum lágrar sakfellingartíðni.</p>
@@ -130,6 +143,7 @@ Beitum okkur gegn ritskoðun og brotum gegn friðhelgi einkalífs, t.d. almennu 
 <li><a href="https://x.piratar.is/polity/1/document/49/">Stefna Pírata um kynbundið ofbeldi</a>: https://x.piratar.is/polity/1/document/49/</li>
 <li><a href="https://x.piratar.is/polity/1/document/65/">Stefna Pírata um lögfestingu Samnings Sameinuðu þjóðanna um réttindi fatlaðs fólks</a>: https://x.piratar.is/polity/1/document/65/</li>
 </ul>
+
 <h3>Virðum fjölbreytta kynvitund</h3>
 <p>Auka ætti sjálfsákvörðunarrétt einstaklingsins í lögum nr. 57/2012 þannig að ákvörðun um kynleiðréttandi aðgerðir verði í meira mæli á valdi einstaklingsins sjálfs. “Þriðja kynið” verði lögformlega viðurkennt í opinberum skráningum, svo sem í vegabréfum. Núgildandi skylda til nafnbreytingar samhliða leiðréttingu á ytri kynfærum skv. 8. gr. laga nr. 57/2012 verði afnumin.</p>
 <p>Breyta ætti samsetningu sérfræðinefndar um kynáttunarvanda þannig að einn nefndarmanna verði sérfræðingur í kynjafræði og/eða hinsegin fræðum og að skipaður sé fulltrúi transfólks. Breyta ætti reglugerð nr. 722/2009 til að jafna rétt fólks af öllum kynjum til niðurgreiðslu á lyfjum og aðgerðum.</p>
@@ -137,11 +151,13 @@ Beitum okkur gegn ritskoðun og brotum gegn friðhelgi einkalífs, t.d. almennu 
 <li><a href="https://x.piratar.is/issue/77/">Stefna Pírata í málefnum transfólks</a></li>
 <li><a href="https://x.piratar.is/issue/84/">Stefna Pírata varðandi staðalmyndir</a></li>
 </ul>
+
 <h3>Tryggjum réttindi fanga</h3>
 <p>Tryggja ætti rétt allra fanga til betrunarúrræða, afþreyingar og þeirra félagslegu úrræða og réttinda sem föngum ber. Efla þarf betrun í formi launaðrar vinnu og allur ágóði af atvinnustarfsemi fanga í fangelsum skal renna til fanganna sjálfra.Tryggja á rétt fanga til þess að virkja innra eftirlit eða koma kvörtunum á framfæri án ótta við eftirköst, þeir skulu eiga rétt á trúnaði í samskiptum við kjörna og skipaða fulltrúa. Fangar geti kosið sér ytri talsmann og hagsmunasamtök fanga geti átt samskipti á milli fangelsa. Auka þarf gegnsæi í öllu er lýtur að fangelsismálum.</p>
 <ul>
 <li><a href="https://x.piratar.is/issue/105/">Stefna Pírata í málefnum fanga</a></li>
 </ul>
+
 <h3>Aðskilnaður ríkis og kirkju</h3>
 <p>Píratar vilja stefna að fullum og algjörum aðskilnaði ríkis og kirkju, jafnri stöðu allra trúar- og lífsskoðunarfélaga og endurskoðun samninga ríkisins við Þjóðkirkjuna um kirkjujarðir (frá 1997) og prestsetur (frá 2006). Þó er ljóst samkvæmt bæði núverandi stjórnarskrá og nýrri stjórnarskrá að slík ákvörðun Alþingis mundi fara í bindandi þjóðaratkvæðagreiðslu til staðfestingar.</p>
 <ul>
@@ -149,6 +165,7 @@ Beitum okkur gegn ritskoðun og brotum gegn friðhelgi einkalífs, t.d. almennu 
 </ul>
 <h2 id="framtid-5">Sjávarútvegsmál</h2>
 <p><strong>Kerfisbreyting án kollsteypu – Auðlind í almannaeigu.</strong></p>
+
 <h3>Allar aflaheimildir á uppboð</h3>
 <p>Íslenska ríkið, fyrir hönd þjóðarinnar, á að bjóða aflaheimildir upp til leigu á opnum markaði og skal leigugjaldið renna í ríkissjóð. Skulu öll úrslit uppboða vera opinberar upplýsingar. Með þessum hætti væri jafnræði, nýliðun og sanngjarn arður þjóðarinnar af fiskveiðiauðlind hennar tryggður.<a name="5-2"></a></p>
 <ul>
@@ -156,17 +173,20 @@ Beitum okkur gegn ritskoðun og brotum gegn friðhelgi einkalífs, t.d. almennu 
 </ul>
 <p>Í nýrri stjórnarskrá segir:<br>
 “Auðlindir í náttúru Íslands, sem ekki eru í einkaeigu, eru sameiginleg og ævarandi eign þjóðarinnar. Enginn getur fengið auðlindirnar, eða réttindi tengd þeim, til eignar eða varanlegra afnota og aldrei má selja þær eða veðsetja.”</p>
+
 <h3>Allur afli á markað</h3>
 <p>Allur afli skal fara á markað til að gera viðskipti með sjávarútvegsafurðir eðlilegri og bæta hag sjómanna, minni sjávarútvegsfyrirtækja og annarra fyrirtækja sem vinna með aukaafurðir. Þetta myndi stuðla að eðlilegri verðmyndun á afurðum, jafna möguleika fiskvinnslna í landinu og tryggja að arðurinn af auðlindinni sé ekki fluttur úr landi.<br>
 <a name="5-3"></a></p>
 <ul>
 <li><a href="https://x.piratar.is/polity/1/document/15/">Sjávarútvegsstefna Pírata</a></li>
 </ul>
+
 <h3>Frjálsar handfæraveiðar</h3>
 <p>Handfæraveiðar verði frjálsar og gerðar aðgengilegar þeim sem kjósa að stunda þær til atvinnu. Tilgangurinn er að stuðla að nýliðun og sjálfbærri nýtingu sjávar ásamt kærkominni búbót fyrir gjörvallt landið. Kerfið verði einfaldað og sveigjanleiki aukinn til að auðvelda nýjum aðilum að stofna og reka útgerð. Handfæraveiðar skulu háðar skynsamlegum takmörkunum og fjölda leyfa á einstaklinga, lögaðila og eftir tegundum báta.<a name="6"></a></p>
 <ul>
 <li><a href="https://x.piratar.is/polity/1/document/15/">Sjávarútvegsstefna Pírata</a><a name="6-1"></a></li>
 </ul>
+
 <h2 id="framtid-6">Umhverfismál</h2>
 <h5>Sjálfbærni sem leiðarstef.</h5>
 <h3>Ísland verði í fararbroddi í umhverfismálum<a name="6-2"></a></h3>
@@ -197,6 +217,7 @@ Beitum okkur gegn ritskoðun og brotum gegn friðhelgi einkalífs, t.d. almennu 
 <ul>
 <li><a href="https://x.piratar.is/polity/1/document/200/">Stefna Pírata í rafbílavæðingu</a></li>
 </ul>
+
 <h2 id="framtid-7">Efnahagsmál</h2>
 <h3>Upplýst nálgun</h3>
 <p>Markmið efnahagsstefnu er að styðja við virka samkeppni, nýsköpun og hagvöxt sem staðið geta undir velferð og grunnstoðum samfélagsins. Píratar “trúa” hvorki á einkarekstur né opinberan rekstur, heldur vilja beita því sem best hefur reynst á hverju sviði fyrir sig.<a name="7-2"></a></p>
@@ -205,22 +226,26 @@ Beitum okkur gegn ritskoðun og brotum gegn friðhelgi einkalífs, t.d. almennu 
 <ul>
 <li><a href="https://x.piratar.is/issue/226/">Efnahagsstefna Pírata</a><a name="7-3"></a></li>
 </ul>
+
 <h3>Bindum enda á skattaundanskot og þunna eiginfjármögnun</h3>
 <p>Við viljum leita uppi fjársjóði Íslendinga í skattaskjólum og tryggja að alþjóðleg fyrirtæki sem starfa á Íslandi greiði skatta á Íslandi, með því að koma í veg fyrir að hagnaði þeirra sé komið úr landi sem vaxtagreiðslur til móðurfyrirtækis.<a name="7-4"></a></p>
 <ul>
 <li><a href="https://x.piratar.is/polity/1/document/181/">Stefna Pírata um þunna fjármögnun</a></li>
 </ul>
+
 <h3>Fjármál hins opinbera verði opin, tölvutæk, gagnsæ og sundurliðuð</h3>
 <p>Bókhald ríkissjóðs og ríkisstofnana skal gert aðgengilegt á tölvutæku formi að því marki sem sjónarmið persónuverndar leyfa. Við alla álagningu skatta skal áhersla lögð á að skatturinn sé sýnilegur og skiljanlegur greiðanda. Afurðir sem tengjast verkefnum fjármögnuðum af opinberu fé skulu almennt vera í almannaeigu og þar með opin og aðgengileg öllum. Eignarhald lögaðila skal vera opið og rekjanlegt.<a name="7-5"></a></p>
 <ul>
 <li><a href="https://x.piratar.is/issue/58/">Stefna Pírata um ríkissjóð og skattheimtu </a></li>
 <li><a href="https://x.piratar.is/issue/226/">Efnahagsstefna Pírata</a></li>
 </ul>
+
 <h3>Ábyrg efnahagsstjórn</h3>
 <p>Alþingi á að setja langtímaáætlun í opinberri þjónustu og hvorki að skila afgangi né safna skuldum nema í samræmi við langtímaáætlanir. Til að tryggja hagsmuni almennings skulu ábyrgð, stöðugleiki, sjálfbærni og langtímamarkmið vera skýr í öllum efnahagsmálum.<a name="8"></a></p>
 <ul>
 <li><a href="https://x.piratar.is/polity/1/document/207/">Efnahagsstefna Pírata</a><a name="8-1"></a></li>
 </ul>
+
 <h2 id="framtid-8">Heilbrigðismál</h2>
 <h5>Örugg heilbrigðisþjónusta án endurgjalds.</h5>
 <h3>Endurreisum gjaldfrjálsa heilbrigðisþjónustu</h3>
@@ -235,21 +260,25 @@ Beitum okkur gegn ritskoðun og brotum gegn friðhelgi einkalífs, t.d. almennu 
 <ul>
 <li><a href="https://x.piratar.is/issue/292/">Stefna Pírata um að þjónusta sérfræðinga verði hluti af sjúkratryggingum</a></li>
 </ul>
+
 <h3>Afglæpavæðing vímuefna</h3>
 <p>Refsistefnan hefur brugðist. Vímuefnamisnotkun er heilbrigðisvandamál sem þarf að leysa sem slíkt. Nálgumst fíkn sem heilsufarslegt og félagslegt vandamál frekar en sem glæp og veitum vímuefnaneytendum í vanda aðstoð í stað þess að refsa þeim.</p>
 <ul>
 <li><a href="https://x.piratar.is/issue/38/" target="_blank" rel="noopener">Fíkni- og vímuefnastefna Pírata</a><a name="8-4"></a></li>
 </ul>
+
 <h3>Þjónusta tannlækna verði hluti af sjúkratryggingum</h3>
 <p>Tannheilsa er órjúfanlegur þáttur í heilsu einstaklinga og engin ástæða til að aðskilja hana sérstaklega frá annarri heilbrigðisþjónustu. Stefnt skal að því að þjónusta tannlækna verði hluti af sjúkratryggingum.</p>
 <ul>
 <li><a href="https://x.piratar.is/issue/293/">Stefna Pírata um tannlækningar</a></li>
 </ul>
+
 <h3>Nýr spítali á góðum stað til framtíðar</h3>
 <p>Píratar vilja halda áfram þeirri uppbyggingu sem hafin er við Landspítalann við Hringbraut; viðhaldi, endurnýjun á tækjakosti og byggingu sjúkrahótels. Á sama tíma viljum við setja af stað faglega, óháða staðarvalsgreiningu á helstu mögulegum staðsetningum nýja Landspítalans á höfuðborgarsvæðinu. Þeirri úttekt ætti að vera lokið innan árs og ætti að taka mið af svæðisskipulagi höfuðborgarsvæðisins og þróun íslenskrar heilbrigðisþjónustu til framtíðar. Í kjölfarið verði landsmönnum falið að velja milli helstu valkosta í vandaðri viðhorfskönnun eða þjóðaratkvæðagreiðslu.<a name="9"></a><a name="9-1"></a></p>
 <ul>
 <li><a href="https://x.piratar.is/issue/215/">Stefna Pírata um staðsetningarval nýs spítala</a></li>
 </ul>
+
 <h2 id="framtid-9">Menntamál</h2>
 <p><strong>Menntun er grunnstoð samfélagsins.</strong></p>
 <h3>Tryggjum öllum aðgengi að námi óháð efnahag og búsetu</h3>
@@ -275,19 +304,23 @@ Menntun skal miða að alhliða þroska hvers og eins, gagnrýninni hugsun og vi
 <ul>
 <li><a href="https://x.piratar.is/polity/1/document/196/">Stefna Pírata um Endurhæfingar- og örorkulífeyri</a><a name="10-2"></a></li>
 </ul>
+
 <h3>Bætum kjör aldraðra</h3>
 <p>Ísland var áður land yngri kynslóðanna þar sem hlutfallslega voru miklu fleiri ungir en eldri. Nú er að myndast jafnvægi í fólksfjöldadreifingu milli yngri og eldri Íslendinga og vegna þess verðum við að byggja upp lífeyriskerfi sem virkar fyrir núverandi aldurssamsetningu samfélagsins. Búsetuúrræði fyrir aldraða þarf að bæta og starfslok þurfa að vera sveigjanlegri en nú er.<a name="10-3"></a></p>
+
 <h3>Lögfestum lágmarksframfærsluviðmið</h3>
 <p>Allir eiga rétt á mannsæmandi framfærslu í auðugu landi. Lágmarksframfærsluviðmið eru nauðsynleg til þess að tryggja það að allir geti lifað með reisn.<a name="10-4"></a></p>
 <ul>
 <li><a href="https://x.piratar.is/issue/41/">Stefna Pírata um Velferðar og félagsmál</a></li>
 </ul>
 <p>Í nýrri stjórnarskrá segir: “Öllum skal með lögum tryggður réttur til lífsviðurværis og félagslegs öryggis.”</p>
+
 <h3>Einföldum framfærslukerfið</h3>
 <p>Píratar vilja einfalda og straumlínulaga öll framfærslukerfin svo að réttindi allra borgara til lágmarksframfærslu og tækifæra séu virt með skilvirkum hætti. Viðmót þjónustustofnana miðist við þarfir notandans; ferlið sé einfaldað, komið í veg fyrir tvíverknað og eyðublaðaburð á milli stofnana. Leitast skal við að samræma félagsbætur, atvinnuleysisbætur, örorkubætur, barnabætur, fæðingarorlof, námslán og önnur stuðningskerfi hins opinbera til að einfalda yfirsýn og tryggja sömu réttindi milli ólíkra hópa.<a name="10-5"></a></p>
 <ul>
 <li><a href="https://x.piratar.is/polity/1/document/11/">Stefna Pírata í Velferðar- og félagsmálum</a></li>
 </ul>
+
 <h3>Lýðræðislegir lífeyrissjóðir</h3>
 <p>Lífeyrissjóðakerfið verði lýðræðisvætt. Stjórn lífeyrissjóða verði í höndum sjóðsfélaga, sem kjósi alla stjórnarmeðlimi í lýðræðislegum kosningum.<a name="10-6"></a></p>
 <p><a href="https://x.piratar.is/polity/1/document/235/">Stefna Pírata um lýðræðisvæðingu lífeyrissjóðanna</a></p>
@@ -299,11 +332,13 @@ Menntun skal miða að alhliða þroska hvers og eins, gagnrýninni hugsun og vi
 <li><a href="https://x.piratar.is/issue/41/">Stefna Pírata um Velferðar- og félagsmál</a></li>
 </ul>
 <p>Í nýrri stjórnarskrá segir: “Öllum skal með lögum tryggður réttur til lífsviðurværis og félagslegs öryggis.”</p>
+
 <h3>Leiðréttum stöðuna fyrir leigjendur</h3>
 <p>Stjórnvöld þurfa að setja hagsmuni leigjenda í forgang með stöðugum og regluvörðuðum leigumarkaði. Auka þarf framboð og bæta inn hvötum til langtímaleigu, að þýskri fyrirmynd . Þannig komum við í veg fyrir miklar sveiflur á húsnæðismarkaði og bjóðum fólki upp á aukinn sveigjanleika og öryggi. Það þýðir að fólk geti valið að leigja til lengri eða skemmri tíma án þess að óttast að vera sagt upp húsnæði með litlum fyrirvara. Möguleikinn á að leigja til langframa nýtist bæði þeim sem vilja spara fyrir eigin húsnæði og þeim sem hugnast ekki að kaupa húsnæði. Við viljum bjóða fólki upp á öryggi og frelsi.</p>
 <ul>
 <li><a href="https://x.piratar.is/polity/1/document/296/">Leigustefna Pírata</a><a name="10-8"></a></li>
 </ul>
+
 <h3>Styttum vinnudaginn</h3>
 <p>Breyta skal lögbundinni vinnuviku úr 40 tímum í 35 tíma. Að tveimur árum liðnum skuli áhrifin af þeirri breytingu metin og ákvörðun tekin um framhaldið.<a name="11"></a></p>
 <ul>
@@ -322,6 +357,7 @@ Menntun skal miða að alhliða þroska hvers og eins, gagnrýninni hugsun og vi
 <li><a href="https://x.piratar.is/issue/286/">Stefna Pírata um tolla og innflutningshömlur á grænmeti</a></li>
 </ul>
 <p><a name="11-4"></a></p>
+
 <h3>Afnemum undanþágur matvælafyrirtækja frá samkeppnislögum</h3>
 <p>Undanþágur frá samkeppnislögum varðandi vinnslu og dreifingu búvara falli niður og framleiðsla, vinnsla, dreifing og sala matvæla falli undir samkeppnislög.</p>
 <ul>
@@ -333,6 +369,7 @@ Menntun skal miða að alhliða þroska hvers og eins, gagnrýninni hugsun og vi
 <ul>
 <li><a href="https://x.piratar.is/polity/1/document/267/">Landbúnaðarstefna Pírata</a></li>
 </ul>
+
 <h2 id="framtid-13">Eflum byggðir</h2>
 <p><strong>Styrkjum sveitarfélögin</strong></p>
 <h3>Grunnstoðir handa öllum, alls staðar</h3>
@@ -348,6 +385,7 @@ Menntun skal miða að alhliða þroska hvers og eins, gagnrýninni hugsun og vi
 <ul>
 <li><a href="https://x.piratar.is/polity/1/document/238/">Ferðamálastefna Pírata</a></li>
 </ul>
+
 <h2 id="framtid-14">Ísland sem áfangastaður</h2>
 <p><strong>Sjálfbær og sterk ferðaþjónusta til framtíðar.</strong></p>
 <h3>Ferðaþjónusta til framtíðar</h3>
@@ -355,6 +393,7 @@ Menntun skal miða að alhliða þroska hvers og eins, gagnrýninni hugsun og vi
 <ul>
 <li><a href="https://x.piratar.is/polity/1/document/238/">Ferðamálastefna Pírata</a></li>
 </ul>
+
 <h3>Gistináttagjaldið til sveitarfélaganna</h3>
 <p>Gistináttagjald verði notað til að fjármagna betur uppbyggingu innviða í ferðaþjónustu. Gjaldið renni í auknum mæli til sveitarfélaga á starfssvæði gistiþjónustunnar og verði prósentuhlutfall af verði gistingar, frekar en föst upphæð.<a name="13-3"></a></p>
 <ul>
