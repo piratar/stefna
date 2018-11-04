@@ -4,6 +4,8 @@
 
 [Grunngildi](grunngildi.md)
 
+---
+
 Í íslenskri þýðingu hljómar hann svona:
 
 ## Píratar eru frjálsir
